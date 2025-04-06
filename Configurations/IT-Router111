@@ -1,0 +1,32 @@
+en
+conf t
+hostname IT-Router111
+
+int se0/0
+ip add 1.1.1.1 255.255.255.0
+no shut
+ex
+
+int fa2/0
+ip add 192.100.1.1 255.255.255.0
+no shut
+ex
+end 
+
+show interface brief
+ping 1.1.1.2
+ping 192.100.2.1
+
+config t
+router opsf 1
+network 192.100.1.0 0.0.0.255 area 0
+network 1.1.1.0 0.0.0.3 area 0
+ex
+end
+
+show ip ospf neighbor
+show ip route ospf
+ping 1.1.1.2
+ping 192.100.2.1
+
+
