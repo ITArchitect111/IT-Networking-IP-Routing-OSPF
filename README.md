@@ -1,4 +1,4 @@
-#IT Networking Project 2: Dyanmic Routing using OSPF#
+# IT-Networking-Server-OSPF
 
 creating simple network topology with IP routing is OSPF
 and setting DHCP address using Server
