@@ -1,4 +1,4 @@
-# IT-Networking-Server-OSPF
+# IT-Networking-IP-Routing-OSPF
 
 ## Description
 This project demonstrates a complete network topology setup using:
