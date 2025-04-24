@@ -27,7 +27,7 @@ The configuration includes **Dynamic Host Configuration Protocol (DHCP)**, **VLA
 - **IT.Switch222.txt**
 
 # IT Networking Source File/
-- **IT Networking 2 (IP Routing OSPF).pkt**
+- **IT Network 2 (IP Routing OSPF).pkt**
   
 # README.md
 
@@ -38,7 +38,7 @@ The configuration includes **Dynamic Host Configuration Protocol (DHCP)**, **VLA
 ---
 
 ## How to Use
-1. Open the `IT Networking 2 (IP Routing OSPF).pkt` file using **Cisco Packet Tracer**.
+1. Open the `IT Network 2 (IP Routing OSPF).pkt` file using **Cisco Packet Tracer**.
 2. Check Network devices if they have DHCP, VLANs, and the OSPF neighbor exist.
 3. Try to ping the IP address of PC in same VLANs and then try to ping the IP address in different VLANs.
 
