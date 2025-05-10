@@ -26,6 +26,8 @@ The configuration includes **Dynamic Host Configuration Protocol (DHCP)**, **VLA
 - **IT-Switch111.txt**
 - **IT.Switch222.txt**
 
+# Overview
+![Model](Overview/IT_Network_2.png)
 # IT Networking Source File/
 - **IT Network 2 (IP Routing OSPF).pkt**
   
